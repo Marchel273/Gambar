@@ -1,0 +1,7 @@
+[
+    {"nama": "Jeruk",  "imageId": "jeruk"},
+    {"nama": "Apel", "imageId": "apel"},
+    {"nama": "Anggur", "imageId": "anggur"},
+    {"nama": "Pisang",  "imageId": "pisang"},
+    {"nama": "Nanas",  "imageId": "nanas"}
+]
